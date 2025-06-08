@@ -1,0 +1,8 @@
+Línea 10: la propiedad Icon de frmEventControl tenía una referencia a archivo no válida.
+Línea 45: la propiedad Picture de cmdInformacion tenía una referencia a archivo no válida.
+Línea 68: la propiedad Picture de picIconoBandeja tenía una referencia a archivo no válida.
+Línea 98: la propiedad ItemData de cboPrg tenía una referencia a archivo no válida.
+Línea 100: la propiedad List de cboPrg tenía una referencia a archivo no válida.
+Línea 618: la propiedad ItemData de cboIdioma tenía una referencia a archivo no válida.
+Línea 620: la propiedad List de cboIdioma tenía una referencia a archivo no válida.
+Línea 667: la propiedad Picture de picIconoBandejaPausa tenía una referencia a archivo no válida.

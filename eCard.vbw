@@ -1,0 +1,14 @@
+frmPrograma = 66, 66, 464, 344, Z, 44, 44, 442, 322, C
+frmContraseñaCambiar = 132, 132, 530, 410, , 110, 110, 508, 388, C
+frmContraseñaEntrar = 22, 22, 420, 300, , 0, 0, 398, 278, C
+Contraseña = 0, 0, 398, 278, 
+Declaraciones = 44, 44, 442, 322, 
+HotKey = 66, 66, 464, 344, 
+NoTask = 88, 88, 486, 366, 
+NumeroHD = 132, 132, 530, 410, 
+ScrSav = 22, 22, 487, 297, 
+Registro = 0, 0, 0, 0, C
+frmImprimir = 110, 110, 506, 385, , 66, 66, 462, 341, C
+HoraSuma = 0, 0, 0, 0, C
+frmTimerMsgBox = 132, 132, 528, 417, , 88, 88, 484, 373, C
+Win = 0, 0, 0, 0, C
